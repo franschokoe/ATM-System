@@ -11,3 +11,15 @@
 4. Contain 3 attempt function for better security
 
 ### Screenshots:
+
+#### Deposite:
+<img src="SCREENSHOTS/DEPOSITE.png" >
+
+#### Withdraw:
+<img src="SCREENSHOTS/WITHDRAW.png">
+
+#### User Error
+<img src="SCREENSHOTS/INSUFFICIENT.png">
+
+#### Check Balance:
+<img src="SCREENSHOTS/BALANCE CHECK.png">
