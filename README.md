@@ -9,6 +9,7 @@
 2. Then you can choose to check balance or withdraw money
 3. Enter only a  number related to what you want to do
 4. Contain 3 attempt function for better security
+<hr>
 
 ### Screenshots:
 
